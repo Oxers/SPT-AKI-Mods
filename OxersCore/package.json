@@ -1,0 +1,8 @@
+{
+  "name": "OxersCore",
+  "author": "Oxers",
+  "description": "Random Acts of Violence",
+  "license": "WTFPL",
+  "version": "1.0",
+  "main": "package.js"
+}
